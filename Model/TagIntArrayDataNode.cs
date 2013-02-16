@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Substrate.Nbt;
 
 namespace NBTExplorer.Model

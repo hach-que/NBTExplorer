@@ -1,4 +1,4 @@
-﻿using Substrate.Core;
+using Substrate.Core;
 
 namespace NBTExplorer.Model
 {

@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 using Substrate.Core;
 using Substrate.Nbt;
 

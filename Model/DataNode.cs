@@ -1,4 +1,4 @@
-﻿using Substrate.Nbt;
+using Substrate.Nbt;
 using System.Collections.Generic;
 
 namespace NBTExplorer.Model

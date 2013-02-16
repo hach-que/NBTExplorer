@@ -1,4 +1,4 @@
-﻿namespace NBTExplorer.Windows
+namespace NBTExplorer.Windows
 {
     partial class HexEditor
     {
